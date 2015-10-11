@@ -1,0 +1,2 @@
+# MessengerDemo
+这个demo向你演示Messenger在线程间传递消息
